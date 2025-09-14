@@ -17,6 +17,9 @@ All parts are attached to 3D printed frame.
 # State of the art 
 A process of building quadcopter require the minimalization of mass. Especially for the tine ones this condition is crucial. In our drone instead of installing FC, ESCs, VTX etc. separately we decided to use innovative FC board with these modules included onboard. This solution allowed mass reduction to only 47g. Comparing with nominal thrust 180.2g it gives thrust to weight ration equal 3,9. This value corresponds to freestyle or racing drones.
 # What next?
-Text here... 
+After manufacturing our very first quadcopter, the next challenge will be to create the other one with wider possibilities such as carring payload with measuring apparatus.
 # Sources 
-- [Writing on GitHub] ( https://docs.github.com/en/get-started/writing-on-github ) 
+- []
+- []
+- []
+- []

@@ -15,7 +15,7 @@ All parts are attached to 3D printed frame.
 	(photo)
 
 # State of the art 
-Text & plots here... 
+A process of building quadcopter require the minimalization of mass. Especially for the tine ones this condition is crucial. In our drone instead of installing FC, ESCs, VTX etc. separately we decided to use innovative FC board with these modules included onboard. This solution allowed mass reduction to only 47g. 
 # What next?
 Text here... 
 # Sources 

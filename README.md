@@ -22,4 +22,4 @@ After manufacturing our very first quadcopter, the next challenge will be to cre
 - [1] https://betafpv.com/products/matrix-1s-brushless-flight-controller?srsltid=AfmBOoog8c_bqsn3OfLnR4LQkqUS7Lojsr7q3-pHgbbi0c2ugo_Ceb8g
 - [2] https://megadron.pl/pl/products/silniki-bezszczotkowe-betafpv-1102-22000kv-37mm-2022-4szt-niebieskie-31569.html?srsltid=AfmBOoo2UWl4C7dGkKnHxwzshirSEphGu9iqYTicPCQIs7Sa2zVdE4Zy
 - [3] https://dronavista.pl/pl/czesci-BETAFPV/8838-kamera-fpv-c03-1200tvl-betafpv.html
-- [4] 
+- [4] https://megadron.pl/en/products/lava-series-1s-450mah-battery-1pc-29781.html?srsltid=AfmBOorizKWn0mtcniVnWCUVvzmR2Te7dEoLgjHWCLEVy5KBppuNokBO

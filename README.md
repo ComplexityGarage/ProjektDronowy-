@@ -1,5 +1,5 @@
 # "Huginn"  - the freestyle quadcopter
-
+![final](https://github.com/user-attachments/assets/a1c56c51-36d2-49a5-997f-0b0bcad90bf6)
 # Authors 
 - Zuzanna Przygodzka
 - Bartosz Marszałek

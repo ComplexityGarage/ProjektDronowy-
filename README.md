@@ -1,5 +1,5 @@
 # Title of the project
-Huginn  - the freestyle quadcopter
+"Huginn"  - the freestyle quadcopter
 # Authors 
 - Zuzanna Przygodzka
 - Bartosz Marszałek
